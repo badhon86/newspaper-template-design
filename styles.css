@@ -13,9 +13,16 @@
     background-color: #f1f1f1;
     padding: 30px;
     margin-top: auto;
-    
     text-align: center;
     font-size: 15px;
+
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+ 
+    color: rgb(12, 11, 11);
+ 
   }
   
   /* Create three equal columns that floats next to each other */
@@ -35,8 +42,12 @@
   
   /* Style the footer */
   .footer {
-    background-color: #f1f1f1;
-    padding: 20px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
     text-align: center;
 
   }
