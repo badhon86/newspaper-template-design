@@ -12,6 +12,7 @@
   .header {
     background-color: #f1f1f1;
     padding: 30px;
+    margin-top: auto;
     text-align: center;
     font-size: 15px;
   }
